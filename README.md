@@ -14,3 +14,5 @@ $ npm install
 $ node lonely.js ./input_file.txt
 ```
 
+## Further Consideration
+This script has basic functionality, and hence isn't as efficient as I would like. There would be definate speed increases if I utilised different sorting methods.
